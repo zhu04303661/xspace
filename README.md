@@ -1,4 +1,27 @@
+## The Xspace project is aim to build a new perfect Commerce eshop system which is include a company's ininside and outside sales' requriement.
+
+## Config
+project use mysql, please config your db in .\database.properties
+and add database broadleaf, system will auto to creat all tables
+
+
+## HOW TO RUN:
+1. to admin dir:
+./startadmin.sh
+
+2. http://localhost:8081/admin
+
+3. to site dir:
+./startsite.sh
+
+4. http://localhost:8080/
+
+
+
+
+the baise is:
 ## The New Broadleaf Commerce Demo Site
+
 
 This Maven project is meant to be used as a solid started project for any [Broadleaf Commerce](http://www.broadleafcommerce.org) application. It has many sensible defaults set up along with examples of how a fully functioning eCommerce site based on Broadleaf might work.
 
