@@ -1,4 +1,4 @@
-## The Xspace project is aim to build a new perfect Commerce eshop system which is include a company's ininside and outside sales' requriement.
+## The Xspace project is aim to build a new perfect Commerce eshop system which is include a company's ininside and outside requriement.
 
 ## Config
 project use mysql, please config your db in .\database.properties
